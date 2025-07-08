@@ -1,4 +1,4 @@
-# File Transfer Application
+# File Transfer App
 
 # Overview
 1. Introduction
@@ -28,7 +28,7 @@ This File Transfer Application is designed to enable seamless and secure transfe
 Provide step-by-step instructions on how to install and set up your project.
 
 1. Clone the repository:
-git clone 
+git clone: https://github.com/Shivamraj10/File-Transfer-App.git
 cd file-transfer-app
 
 1. Install dependencies:
@@ -77,4 +77,4 @@ Provide guidelines for contributing to your project if applicable.
 5. Push to the branch (git push origin feature/new-feature).
 6. Create a new Pull Request.
 
-# File-Transfer-App
+
